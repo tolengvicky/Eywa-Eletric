@@ -1,3 +1,3 @@
-<h1 align="center">Monster Electric</h1><br>
+<h1 align="center">Eywa Eletric</h1><br>
 
 ### Projeto (Screenshot):
